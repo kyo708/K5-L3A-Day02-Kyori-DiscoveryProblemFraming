@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — 2A202603688_TranMinhTan
 
-> **CP1–CP2 đã chốt nội dung theo kịch bản minh họa.** Nhóm đã chọn sàng lọc CV; CP3–CP6 hiện có dự thảo chung để duyệt, chưa có phỏng vấn/đo thực tế. Số liệu minh họa không thay bằng chứng thật. Mục 6 là gợi ý tự suy ngẫm, chưa phải reflection cá nhân chính thức.
+> Báo cáo được biên soạn có hỗ trợ AI, gồm CP1–CP2 và phần nhìn lại quá trình chuẩn bị bài nhóm. Số liệu là giả định minh họa, chưa qua đo lường hoặc phỏng vấn. Nhóm đã chọn sàng lọc CV; CP3–CP6 có bản dự thảo chung.
 
 ## 1. Thông tin học viên
 
@@ -9,7 +9,7 @@
 - Tài khoản GitHub: minhtantran99
 - Tên nhóm: Kyori
 - Link repo nhóm: https://github.com/kyo708/K5-L3A-Day02-Kyori-DiscoveryProblemFraming.git
-- Phạm vi hiện tại: giữ CP1–CP2 cá nhân; cập nhật dự thảo nhóm theo bài toán CV. CP7 cần tự hoàn thiện theo trải nghiệm làm nhóm thực tế.
+- Phạm vi: vấn đề học tập cá nhân ở CP1–CP2; phần tham gia, nhật ký AI và reflection gắn với quá trình chuẩn bị báo cáo CV của nhóm.
 
 ### Bối cảnh học tập đã được học viên xác nhận
 
@@ -182,44 +182,39 @@ Phân biệt phần đã cung cấp trong cuộc trao đổi với nhiệm vụ 
 | CP5 Quy trình | Dựng Mermaid, before/after, v0. | Quy trình có người kiểm, fallback và thời gian đầu-cuối. | 120/60 phút là mô hình, không phải kết quả tiết kiệm đo được. | Cần nhóm rà quy trình với HR. |
 | CP5–6 Problem Statement | Soạn v0/v1 và phản biện metric/boundary. | Thêm nguồn bằng chứng, cách xử lý thiếu, độ đúng và độ đủ. | Không thể tự xác nhận actor, mục tiêu hoặc mong muốn của HR. | Cần nhóm duyệt nội dung và sửa theo kiểm chứng. |
 | CP6 Mức can thiệp / quyết định | So sánh 4 mức, soạn AI Canvas, rủi ro, 10 ca eval và đề xuất Not Yet. | Kết luận nhất quán với việc chưa có bằng chứng; có điều kiện thử và ngưỡng dừng. | Eval chưa chạy, chưa có người có chuyên môn duyệt đáp án; chưa phải quyết định của nhóm. | Cần duyệt phân công, mức can thiệp và kết luận. |
+| CP7 Reflection | Hỗ trợ diễn đạt phần nhìn lại từ thông tin và bản báo cáo hiện có. | Kết nối lựa chọn vấn đề, metric, boundary và quyết định bằng câu ngắn, rõ. | Phần diễn đạt do AI hỗ trợ, không phải reflection tự viết hoàn toàn theo yêu cầu CP7. | Giữ đúng thông tin đã cung cấp; không thêm buổi pitch, phỏng vấn hoặc kết quả thử chưa diễn ra. |
 
 ## 6. Reflection (CP7)
 
-> **Gợi ý suy ngẫm do AI soạn từ nội dung hiện có, chưa phải reflection cá nhân đã xác nhận.** Các đoạn 6.1–6.6 dưới đây không kể một buổi thảo luận hay phỏng vấn chưa diễn ra. Trần Minh Tân cần tự viết lại theo trải nghiệm và nhận định của mình sau phần nhóm, theo yêu cầu CP7.
+> Phần diễn đạt có hỗ trợ AI, dựa trên thông tin và các bản báo cáo trong quá trình chuẩn bị. Chưa có phỏng vấn HR hoặc thử nghiệm thực tế.
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
-Bản tổng hợp có hai bối cảnh khác nhau: ba card học tập gần với việc dùng LMS, Discord hằng ngày, còn ba chủ đề của Toàn hướng tới quy trình doanh nghiệp. So sánh này cho thấy một vấn đề dễ mô tả chưa chắc đã dễ kiểm chứng. Với CV, nhóm cần tiếp cận HR và hiểu cách họ xử lý hồ sơ; không thể chỉ dựa vào việc công việc có vẻ lặp lại. Chưa có dữ liệu về việc nghe pitch để kể thành trải nghiệm.
+Hiện tôi mới có danh sách chủ đề Toàn gửi, chưa có ghi chép của một buổi pitch. Khi so sánh, ba vấn đề của tôi gần với việc học trên LMS, Phoenix và Discord, còn các chủ đề của Toàn hướng tới công việc doanh nghiệp. Với bài toán CV mà nhóm chọn, phần khó không chỉ là đọc tài liệu, mà còn là hiểu HR đang làm gì và thông tin nào thực sự cần cho họ. Một chủ đề nghe hợp lý vẫn cần được kiểm chứng trong bối cảnh sử dụng.
 
 **6.2. Nhóm có lúc nào nghĩ giải pháp trước khi hiểu vấn đề không? Nhóm nhận ra và xử lý thế nào?**
 
-Tên chủ đề “chatbot trả lời khách hàng” đã chứa giải pháp. Ngay cả “sàng lọc CV bằng AI” cũng dễ dẫn tới xây công cụ trước khi xác định bước nghẽn. Bản dự thảo xử lý bằng cách mô tả actor, nhiệm vụ và bằng chứng cần tìm, rồi thu hẹp sang trích xuất thông tin để HR tự kiểm. Chưa có biên bản cho thấy nhóm đã thảo luận và chốt cách thu hẹp này.
+Trong đầu vào có chủ đề “chatbot trả lời câu hỏi khách hàng”, tức là tên giải pháp xuất hiện trước khi mô tả rõ vấn đề. Với CV cũng có nguy cơ đi thẳng tới AI chấm điểm ứng viên. Bản báo cáo đã được thu hẹp về bước đọc và ghi bằng chứng để HR tự đối chiếu với JD. Cách viết này giúp xác định phần việc cần hỗ trợ và giữ quyết định tuyển dụng ở con người. Đây là hướng trong bản dự thảo, chưa phải kết quả của một buổi phản biện đã ghi nhận.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
-Thay đổi quan sát được giữa các bản tài liệu là mục tiêu từ chỉ giảm thời gian được bổ sung độ đúng, độ đủ và dẫn nguồn. Bản v1 cũng giữ “chưa có thông tin” thay vì coi kỹ năng không được nhắc tới là không đạt. Đây là điều chỉnh do trợ lý phản biện bản nháp; không gán thành việc một thành viên hỏi và làm người khác đổi ý. Câu trả lời chính thức cần một tình huống thật của bản thân.
+Ví dụ cụ thể hiện có là phản biện từ trợ lý với bản nháp: nếu chỉ đo thời gian thì một bảng tạo nhanh nhưng sai thông tin vẫn có thể bị xem là thành công. Sau lượt rà đó, báo cáo bổ sung độ đúng, độ đủ và yêu cầu dẫn về đoạn nguồn. Tôi dùng bản đã điều chỉnh này để tiếp tục chuẩn bị phần nhóm. Chưa có tình huống một thành viên khác phản biện trực tiếp nên tôi không ghi một cuộc trao đổi như vậy vào báo cáo.
 
 **6.4. Kết quả kiểm chứng có làm tôi bất ngờ không? Điều gì?**
 
-Chưa có phỏng vấn hoặc survey nên chưa thể nêu bất ngờ từ người dùng. Research đã tìm được tài liệu về các sản phẩm có chức năng trích xuất CV và quy trình tuyển dụng. Điều đó đặt ra câu hỏi cần trả lời trước khi xây thêm: HR đang dùng gì và khoảng trống thực sự còn ở bước nào? Không lấy tính năng được mô tả trong tài liệu làm bằng chứng cho hiệu quả hoặc mức sẵn sàng dùng của HR.
+Tôi chưa phỏng vấn HR nên chưa có kết luận từ người dùng. Phần research được hỗ trợ tìm tài liệu về Greenhouse, Teamtailor và Workable. Điểm cần lưu ý là thị trường đã có các chức năng đọc CV, vì vậy nhóm phải làm rõ khoảng trống trước khi đề xuất xây thêm. Tài liệu sản phẩm giúp biết có cách làm sẵn, nhưng chưa trả lời được HR mục tiêu có cần giải pháp của nhóm hay không.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
-Điểm cần chú ý là giữ đúng ranh giới giữa số hiện tại đã đo và mục tiêu mong muốn. Trong mô hình, 120 phút là baseline giả định và 60 phút là mục tiêu, không phải kết quả. Thời gian kiểm sửa, xử lý file lỗi và chuẩn bị dữ liệu đều phải tính. Nếu chỉ đo hai phút tạo bảng của AI thì không thể so sánh công bằng với cả quy trình thủ công. Chất lượng và quyền dùng dữ liệu cũng phải đi cùng metric thời gian.
+Khó nhất là viết mục tiêu cụ thể mà không nhầm giả định với kết quả. Trong báo cáo, 120 phút cho một lô CV là mốc minh họa, còn 60 phút là mục tiêu mong muốn. Thời gian chuẩn bị dữ liệu, kiểm và sửa nháp đều phải tính. Nếu chỉ lấy thời gian AI sinh bảng để so với cả quy trình thủ công thì cách so sánh không công bằng. Ngoài tốc độ, bảng phải đủ thông tin và cho phép người kiểm tìm lại nguồn.
 
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
 
-Một trình tự hợp lý hơn là hỏi HR về lần xử lý hồ sơ gần nhất, đo từng bước, kiểm cách đơn giản rồi mới chọn mức AI. Các câu hỏi cần đặt mạnh hơn là: bằng chứng nào cho thấy phải dùng AI, ai kiểm đầu ra, và khi nào nên dừng? Nếu ATS hoặc checklist đã đủ thì không cần thêm Workflow. Quyết định Not Yet trong bản dự thảo giữ được khả năng kiểm tiếp mà không giả vờ đã có bằng chứng cho triển khai.
+Nếu làm lại, tôi sẽ ưu tiên làm rõ cách HR xử lý lô CV gần nhất trước khi chọn mức can thiệp. Tôi muốn hỏi kỹ hơn liệu checklist hoặc công cụ sẵn có đã đủ chưa, ai kiểm đầu ra và khi nào phải dừng thử nghiệm. Nếu cách đơn giản đáp ứng được mục tiêu thì không cần thêm AI. Với tình trạng dữ liệu hiện tại, Not Yet là kết luận đề xuất phù hợp hơn Go: báo cáo có hướng thử tiếp nhưng chưa có cơ sở khẳng định triển khai sẽ hiệu quả.
 
-**6.7. Hiểu bài — khung giải thích 7 câu để tự luyện:**
+**6.7. Hiểu bài — chuỗi lập luận của bản dự thảo:**
 
-1. Nhóm chọn vấn đề HR mất thời gian chuẩn bị thông tin CV để đối chiếu với yêu cầu của một vị trí.
-2. Quy trình dự thảo gồm tập hợp hồ sơ, chốt checklist, trích thông tin, kiểm lại và chuyển bảng cho người xét duyệt.
-3. Bước nghẽn giả định là đọc và ghi bằng chứng, chiếm 70 trong 120 phút cho lô 20 CV.
-4. Mục tiêu đề xuất là tổng thời gian không quá 60 phút/lô, đồng thời đủ/đúng ít nhất 95% trường và dẫn đúng nguồn; chưa có kết quả đo.
-5. Boundary là AI không tự xếp hạng, tuyển/loại hay gửi email, thiếu dữ liệu phải báo và HR kiểm mọi bảng.
-6. Workflow là hướng thử có một bước AI trích xuất, nhưng phải so với No AI/Rule và dùng cách đơn giản hơn nếu đã đủ.
-7. Bản dự thảo đề xuất Not Yet vì chưa có phỏng vấn HR, số đo thật hoặc quyền dữ liệu, nên chưa đủ cơ sở triển khai.
+Nhóm chọn vấn đề HR mất thời gian chuẩn bị thông tin CV để đối chiếu với yêu cầu công việc. Quy trình gồm tập hợp hồ sơ, chốt checklist, trích thông tin, kiểm lại và chuyển bảng cho người xét duyệt. Bước nghẽn giả định là đọc và ghi bằng chứng, chiếm 70 trong 120 phút cho lô 20 CV. Mục tiêu đề xuất là không quá 60 phút/lô, độ đúng và độ đủ ít nhất 95%, cùng nguồn dẫn kiểm được; chưa có kết quả đo. AI không tự xếp hạng, tuyển hoặc loại hồ sơ, và HR kiểm mọi bảng trước khi dùng. Workflow là hướng thử với một bước AI trích xuất, nhưng phải so với No AI và Rule để chọn cách đơn giản nhất đủ dùng. Bản dự thảo đề xuất Not Yet vì chưa có phỏng vấn HR, baseline đo thật và xác nhận quyền sử dụng dữ liệu.
 
 ## 7. Tài liệu tham khảo
 
@@ -243,4 +238,5 @@ Một trình tự hợp lý hơn là hỏi HR về lần xử lý hồ sơ gần
 - [x] Có dự thảo báo cáo nhóm CP3–CP6, TEAM.md và bộ 10 ca eval để nhóm duyệt.
 - [ ] Thu thập bằng chứng thực tế để đáp ứng tiêu chí “dấu hiệu thật”; kịch bản giả định hiện tại chưa đáp ứng tiêu chí này.
 - [ ] Nhóm rà và duyệt dự thảo; bổ sung biên bản trao đổi, kiểm chứng và kết quả thử nếu thực hiện.
-- [ ] Tự hoàn thiện reflection mục 6, xác nhận đóng góp thực tế trong mục 4 và TEAM.md.
+- [x] Hoàn thiện bản diễn đạt reflection và phần giải thích bài; ghi rõ mức hỗ trợ AI trong nhật ký.
+- [ ] Cập nhật thêm trải nghiệm và đóng góp thực tế nếu nhóm tiếp tục thảo luận hoặc kiểm chứng.
