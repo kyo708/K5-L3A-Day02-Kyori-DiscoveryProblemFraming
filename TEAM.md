@@ -38,9 +38,18 @@
 
 **Đóng góp cụ thể:** đã có đầu vào ba chủ đề qua người đại diện; chưa có xác nhận phỏng vấn, đo lường hoặc sản phẩm nhóm do thành viên trực tiếp tạo.
 
-**Bằng chứng đầu vào:** báo cáo nhóm mục 2.1, dòng 1–3. Nội dung tổng hợp do AI hỗ trợ theo yêu cầu của Trần Minh Tân; không coi việc có tên trong phân công là bằng chứng đã thực hiện.
+**Bằng chứng đầu vào:**
 
-**Điều học được từ phần nhóm:** thành viên tự bổ sung sau hoạt động thực tế.
+- [Báo cáo cá nhân](report/individual/2A202603654_VuThanhToan.md), mục 2 (CP1): scan 5 vấn đề gồm giáo án, lọc email, sàng lọc CV, tổng hợp feedback và CSKH trả lời câu hỏi lặp lại.
+- Báo cáo cá nhân, mục 3 (CP2): bảng top 3 (CV, chatbot CSKH, feedback) và 3 Problem Card đầy đủ actor, quy trình, bottleneck, impact, phương án không dùng AI. Card muốn pitch nhất là #2, sàng lọc CV.
+- Từ đầu vào cá nhân sang [báo cáo nhóm](report/team/group_report.md):
+  - Mục 2.1, dòng 1–3, là ba card của Toàn. Candidate #1 (CV) là candidate nhóm chọn ở mục 2.4.
+  - Bottleneck "đọc và đối chiếu CV với yêu cầu" (bước 3–4 của Card #2) là cơ sở cho bước nghẽn ở mục 4.1.
+  - Phương án không dùng AI "form CV thống nhất + bảng Excel tiêu chí" được dùng cho dòng No AI ở mục 6.2.
+  - Hai câu Toàn muốn nhóm phản biện ("ai đánh giá đúng năng lực ứng viên?", "bỏ sót ứng viên tiềm năng xử lý thế nào?") dẫn tới boundary "AI không chấm điểm/loại ứng viên" và phân tích bỏ sót ở mục 6.4.
+  - Giả thuyết AI ban đầu trong Card #2 (chấm mức phù hợp, xếp nhóm ứng viên) được nhóm thu hẹp lại thành chỉ trích bằng chứng có nguồn (mục 3.2, 7).
+
+**Điều học được từ phần nhóm:** cách hoạt động team, phân chia công việc tìm hiểu đề tài, hoàn thành nhiệm vụ được giao
 
 ### TranMinhTan-2A202603688
 
