@@ -1,4 +1,4 @@
-﻿# Báo cáo nhóm — Day 02 Discovery & Problem Framing
+# Báo cáo nhóm — Day 02 Discovery & Problem Framing
 
 ## 1. Thông tin nhóm
 

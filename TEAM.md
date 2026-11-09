@@ -1,7 +1,6 @@
 ﻿# Team — Kyori
 
-> Bản phân công đề xuất để ba thành viên duyệt. Tên, MSSV và việc chọn vấn đề CV do Trần Minh Tân cung cấp. Các nhiệm vụ dưới đây chưa được coi là đóng góp đã thực hiện. Mỗi người tự xác nhận phần của mình trước khi nộp.
-
+> Điền file này trên repo chung do nhóm trưởng fork. Nhóm điền phần Thông tin nhóm và Thành viên. Mỗi người tự điền phần của mình trong Cá nhân. Không copy file này sang repo khác.
 ## Thông tin nhóm
 
 - Tên nhóm: Kyori.
@@ -15,7 +14,7 @@
 |---:|---|---|---|---|
 | 1 | Vũ Thanh Toàn | 2A202603654 | Phụ trách bối cảnh tuyển dụng, kiểm chứng và rà tiêu chí JD | Chưa cung cấp |
 | 2 | Trần Minh Tân | 2A202603688 | Điều phối tổng hợp, research, quy trình, đối chiếu báo cáo | minhtantran99 |
-| 3 | Phạm Cát Tân | 2A202603678 | Phản biện phạm vi, kiểm chứng thứ hai, eval và rà rủi ro | Chưa cung cấp |
+| 3 | Phạm Cát Tân | 2A202603678 | Phản biện phạm vi, kiểm chứng thứ hai, eval và rà rủi ro | `captainpham` |
 
 ## Phân công theo checkpoint — đề xuất
 
@@ -64,20 +63,22 @@
 
 ### PhamCatTan-2A202603678
 
-**Thông tin đã nhận:** họ tên và MSSV; chưa có ba vấn đề cá nhân hoặc tài khoản GitHub.
+**Thông tin đã nhận:** báo cáo cá nhân CP2 có ba candidate: onboarding developer vào codebase, tổng hợp yêu cầu từ SRS/Figma/Jira và tích hợp API giữa Frontend/Backend. Tên tác giả commit trong lịch sử repo là `captainpham` (commit `d372560`); dùng làm GitHub handle theo lịch sử commit. Chưa có bằng chứng các candidate này đã được pitch với nhóm.
 
 **Phần việc phụ trách đề xuất:** phản biện phạm vi, phỏng vấn người thứ hai, rà eval và rủi ro.
 
-**Đóng góp cụ thể:** chưa ghi nhận sản phẩm thực tế. Ba candidate trong báo cáo nhóm mục 2.1 dòng 7–9 do AI đề xuất để thành viên xem, không phải lịch sử pitch.
+**Đóng góp được thành viên tự ghi nhận khi rà bản nháp:** đối chiếu candidate CP3 với ba card CP2; phát hiện các ý trước đó gán cho mình không khớp và đề nghị thay bằng ba candidate trong báo cáo cá nhân. Rà CP4–CP6, nêu rõ chưa có phỏng vấn/survey thật, thời lượng CP5 là giả định, bộ eval chưa chạy và quyết định còn chờ nhóm duyệt. Bản báo cáo được AI hỗ trợ cập nhật để phản ánh đúng các candidate và trạng thái này. Thành viên xác nhận đã pitch miệng cả ba card; không nhớ câu hỏi/phản hồi cụ thể. Chưa thực hiện phỏng vấn HR.
 
-**Bằng chứng:** cần bổ sung ghi chú/file hoặc commit sau khi thực hiện nhiệm vụ.
+**Bằng chứng:** [bảng candidate và cluster đã rà](report/team/group_report.md), [các card CP2](report/individual/2A202603678_PhamCatTan.md). Pitch miệng đã được thành viên xác nhận; phần phản biện, kiểm chứng người dùng và quyết định nhóm vẫn cần ghi nhận/xác nhận.
 
-**Điều học được từ phần nhóm:** .
+**Điều học được từ phần nhóm:** thành viên tự viết sau hoạt động thực tế; chưa có nội dung reflection do thành viên cung cấp.
 
 ## Duyệt và thông tin còn thiếu
 
 - [ ] Vũ Thanh Toàn xác nhận GitHub, vai trò và đóng góp thực tế.
-- [ ] Phạm Cát Tân xác nhận GitHub, ba candidate, vai trò và đóng góp thực tế.
+- [x] Phạm Cát Tân có ba card CP2 trong báo cáo cá nhân; handle `captainpham` được đối chiếu từ lịch sử commit; phần đóng góp đã được ghi theo tự khai.
+- [x] Phạm Cát Tân xác nhận đã pitch miệng cả ba card CP2; câu hỏi/phản hồi sau pitch chưa nhớ hoặc ghi lại.
+- [ ] Phạm Cát Tân tự xác nhận vai trò đề xuất, bổ sung điều học được/reflection và thực hiện phỏng vấn HR thật.
 - [ ] Trần Minh Tân xác nhận phần việc sau khi rà bản dự thảo.
 - [ ] Cả nhóm duyệt Problem Statement, số liệu thiết kế, phân công và quyết định.
 - [ ] Mỗi thành viên tự điền điều học được và commit phần cá nhân bằng danh tính của mình.
