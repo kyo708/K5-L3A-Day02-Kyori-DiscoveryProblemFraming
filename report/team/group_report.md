@@ -19,17 +19,16 @@ Nhóm chọn candidate #1 là thông tin đã xác nhận qua Trần Minh Tân. 
 
 | # | Nguồn | Candidate dạng Job Story ngắn | Actor | Bottleneck giả thuyết | Câu hỏi chuẩn bị phản biện |
 |---:|---|---|---|---|---|
-| 1 | Vũ Thanh Toàn — đã cung cấp chủ đề | Khi nhận nhiều CV, tôi muốn có thông tin đối chiếu được với JD, để chuẩn bị hồ sơ cho bước xét duyệt. | HR tuyển một vị trí | Đọc, tìm và ghi bằng chứng từ CV | ATS có sẵn đã đủ chưa? Phần nào cần đọc lại? |
-| 2 | Vũ Thanh Toàn — đã cung cấp chủ đề | Khi khách hỏi lặp lại về giá, vận chuyển, bảo hành, tôi muốn trả lời đúng chính sách hiện hành, để giải quyết yêu cầu kịp thời. | Nhân viên CSKH | Tìm đúng chính sách và soạn lại câu trả lời | FAQ và mẫu trả lời có đủ không? |
-| 3 | Vũ Thanh Toàn — đã cung cấp chủ đề | Khi nhận feedback từ nhiều kênh, tôi muốn thấy vấn đề xuất hiện lặp lại, để quyết định nội dung cần điều tra thêm. | Người phụ trách sản phẩm | Gom phản hồi trùng ý, giữ được nguồn | Tần suất phản hồi có đại diện cho mức nghiêm trọng không? |
-| 4 | Trần Minh Tân — card cá nhân | Khi chuẩn bị nộp lab, tôi muốn biết đủ mục bắt buộc, để nộp đúng cấu trúc. | Học viên | Đối chiếu nhiều file yêu cầu | Một checklist có dẫn nguồn đã đủ chưa? |
-| 5 | Trần Minh Tân — card cá nhân | Khi tìm lại trao đổi trên Discord, tôi muốn tìm đúng câu trả lời và ngữ cảnh, để tiếp tục học. | Học viên | Đọc nhiều kết quả tìm kiếm | Có khó tìm thật không, hay chưa biết dùng tìm kiếm? |
-| 6 | Trần Minh Tân — card cá nhân | Khi nhận hạn qua LMS, Discord và coach, tôi muốn ghi đúng hạn từng bài, để sắp xếp việc học. | Học viên | Đối chiếu và cập nhật lịch | Lời nhắc coach cùng một lịch cá nhân đã đủ chưa? |
-| 7 | Đề xuất cho Phạm Cát Tân duyệt | Khi chuẩn bị phỏng vấn nhiều ứng viên, tôi muốn xác nhận được khung giờ chung, để giảm trao đổi đổi lịch. | Điều phối tuyển dụng | Ghép thời gian của ứng viên và người phỏng vấn | Link tự đặt lịch đã giải được chưa? |
-| 8 | Đề xuất cho Phạm Cát Tân duyệt | Khi nhận yêu cầu tuyển dụng từ quản lý, tôi muốn phân biệt tiêu chí bắt buộc và ưu tiên, để đọc CV nhất quán. | HR và hiring manager | Làm rõ yêu cầu mơ hồ trong JD | Ai có quyền chốt tiêu chí? |
-| 9 | Đề xuất cho Phạm Cát Tân duyệt | Khi nhân viên mới bắt đầu làm việc, tôi muốn biết các thủ tục còn thiếu và người phụ trách, để hoàn tất đúng hạn. | Nhân viên mới và HR | Theo dõi trạng thái onboarding | Checklist phân công có đủ không? |
+| 1 | Vũ Thanh Toàn  | Khi nhận nhiều CV, tôi muốn có thông tin đối chiếu được với JD, để chuẩn bị hồ sơ cho bước xét duyệt. | HR tuyển một vị trí | Đọc, tìm và ghi bằng chứng từ CV | ATS có sẵn đã đủ chưa? Phần nào cần đọc lại? |
+| 2 | Vũ Thanh Toàn  | Khi khách hỏi lặp lại về giá, vận chuyển, bảo hành, tôi muốn trả lời đúng chính sách hiện hành, để giải quyết yêu cầu kịp thời. | Nhân viên CSKH | Tìm đúng chính sách và soạn lại câu trả lời | FAQ và mẫu trả lời có đủ không? |
+| 3 | Vũ Thanh Toàn  | Khi nhận feedback từ nhiều kênh, tôi muốn thấy vấn đề xuất hiện lặp lại, để quyết định nội dung cần điều tra thêm. | Người phụ trách sản phẩm | Gom phản hồi trùng ý, giữ được nguồn | Tần suất phản hồi có đại diện cho mức nghiêm trọng không? |
+| 4 | Trần Minh Tân  | Khi chuẩn bị nộp lab, tôi muốn biết đủ mục bắt buộc, để nộp đúng cấu trúc. | Học viên | Đối chiếu nhiều file yêu cầu | Một checklist có dẫn nguồn đã đủ chưa? |
+| 5 | Trần Minh Tân  | Khi tìm lại trao đổi trên Discord, tôi muốn tìm đúng câu trả lời và ngữ cảnh, để tiếp tục học. | Học viên | Đọc nhiều kết quả tìm kiếm | Có khó tìm thật không, hay chưa biết dùng tìm kiếm? |
+| 6 | Trần Minh Tân  | Khi nhận hạn qua LMS, Discord và coach, tôi muốn ghi đúng hạn từng bài, để sắp xếp việc học. | Học viên | Đối chiếu và cập nhật lịch | Lời nhắc coach cùng một lịch cá nhân đã đủ chưa? |
+| 7 |  Phạm Cát Tân | Khi chuẩn bị phỏng vấn nhiều ứng viên, tôi muốn xác nhận được khung giờ chung, để giảm trao đổi đổi lịch. | Điều phối tuyển dụng | Ghép thời gian của ứng viên và người phỏng vấn | Link tự đặt lịch đã giải được chưa? |
+| 8 |  Phạm Cát Tân | Khi nhận yêu cầu tuyển dụng từ quản lý, tôi muốn phân biệt tiêu chí bắt buộc và ưu tiên, để đọc CV nhất quán. | HR và hiring manager | Làm rõ yêu cầu mơ hồ trong JD | Ai có quyền chốt tiêu chí? |
+| 9 |  Phạm Cát Tân | Khi nhân viên mới bắt đầu làm việc, tôi muốn biết các thủ tục còn thiếu và người phụ trách, để hoàn tất đúng hạn. | Nhân viên mới và HR | Theo dõi trạng thái onboarding | Checklist phân công có đủ không? |
 
-Chủ đề “chatbot CSKH” được diễn đạt lại thành vấn đề của người trả lời; chatbot là một phương án, không phải bản thân pain.
 
 ### 2.2. Cluster đề xuất
 
@@ -49,7 +48,7 @@ OUTCOME: Giảm thời gian HR chuẩn bị thông tin đối chiếu CV với J
 └── Opportunity C: Thông tin thiếu hoặc mơ hồ dễ bị hiểu nhầm là không đáp ứng.
 ```
 
-Các opportunity trên là giả thuyết cần kiểm chứng. Không đặt “chatbot tuyển dụng”, “agent xếp hạng CV” hoặc “dashboard AI” vào tầng nhu cầu vì đó là giải pháp.
+
 
 ### 2.4. Chấm shortlist — điểm dự thảo, chưa phải bỏ phiếu của nhóm
 
