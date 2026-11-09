@@ -25,9 +25,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | 3 | Cần đọc, tổng hợp nhiều thông tin| là một nhà tuyển dụng khi đọc thủ công CV của quá nhiều ứng viên rất mất thời gian và dễ miss thông tin ứng viên tôi muốn thông tin ứng viên được tổng hợp và so sánh theo một tiêu chí để tiết kiệm thời gian  | HR, nhà tuyển dụng | hàng chục, hàng trăm CV mất thời gian sàng lọc thủ công |
 | 4 |Cần đọc, Tổng hợp nhiều thông tin | Khi ra mắt một sản phẩm mới hoặc dự án mới thường có khá nhiều feedback được gửi về qua nhiều kênh thông tin khác nhau tôi muốn các thông tin feedback được tổng hợp và sàng lọc tìm ra các vấn đề phổ biến để tiếp tục phát triển sản phẩm | chủ doanh nghiệp, PM | phản hồi đến từ nhiều kênh fb,tiktok..., việc đọc và tổng hợp thông tin thường gặp khó khăn |
 | 5 | Lặp Lại | Khi khách hàng liên tục hỏi các câu hỏi giống nhau tôi muốn có hệ thống tự động trả lời để tiết kiệm thời gian | nhân viên CSKH, chủ shop | liên tục phải trả lời các câu hỏi về giá, vận chuyển, bảo hành |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+
 
 **Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
 
@@ -63,7 +61,10 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 Quy trình nháp hiện tại:
 
 ```text
+HIỆN TẠI — khoảng 270 phút/đợt feedback
 
+[Thu feedback từ các kênh: 30'] → [Vào từng kênh đọc và tổng hợp: 180'] ← BOTTLENECK
+→ [So sánh, tìm vấn đề phổ biến: 45'] → [Ghi lại để phát triển sản phẩm: 15']
 ```
 
 ### Problem Card #2
@@ -84,7 +85,11 @@ Quy trình nháp hiện tại:
 Quy trình nháp hiện tại:
 
 ```text
+HIỆN TẠI — khoảng 120 phút/lô 20 CV
 
+[Tập hợp CV và JD: 10'] → [Chốt checklist theo JD: 10']
+→ [Đọc CV, ghi và đối chiếu với JD: 70'] ← BOTTLENECK
+→ [Kiểm lại bảng: 20'] → [Lập danh sách gửi xét duyệt: 10']
 ```
 
 ### Problem Card #3
@@ -105,7 +110,11 @@ Quy trình nháp hiện tại:
 Quy trình nháp hiện tại:
 
 ```text
+HIỆN TẠI — khoảng 5 phút/câu hỏi, lặp lại nhiều lần/ngày
 
+[Đọc tin nhắn: 1'] → [Xác định câu hỏi: 0.5']
+→ [Tìm thông tin giá/vận chuyển/bảo hành: 2'] ← BOTTLENECK
+→ [Soạn và gửi trả lời: 1.5'] → (lặp lại với khách tiếp theo)
 ```
 
 ### Card muốn pitch nhất
@@ -157,21 +166,34 @@ Quy trình nháp hiện tại:
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
+sau khi nghe các problems của các bạn khác tôi học được cách nhìn nhận vấn đề theo nhiều chiều hướng khác nhau hơn và cũng có nhiều kinh nghiệm hơn trong việc phân tích bài toán.
 
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+có. khi đó nhóm thường tập trung vào giải pháp làm như nào, làm thế nào để giải quyết vấn đề. khi đó mối vấn đề ban đầu thường bị rộng ra và sẽ có những giải pháp ko thật sự cần thiết nên nhóm đã bàn lại và cùng tìm hiểu kĩ vấn đề của đề tài rồi mới tìm giải pháp.
 
-**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
+**6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.** 
+cũng từng bị lung lay khi có người hỏi về việc Agents có thể làm sót những ứng viên tiềm năng không 
 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+chưa thực sự có những cuộc phỏng vấn HR thật nên chưa thể đánh giá 
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
-
+là tìm hiểu xem người dùng thật sự bị pain ở đâu, đâu mới là bản chất của vấn đề
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
+sẽ phỏng vấn HR thật để có thể đưa ra những kết quả thật, đánh giá chuẩn xác hơn vấn đề.
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
+
+HR đọc và đối chiếu CV không đồng nhất với JD rất tốn thời gian → 5 bước; nghẽn ở bước đọc/ghi bằng chứng, khoảng 70/120 phút cho 20 CV → tốc độ và sự chính xác đều được cải thiện tới 95% → AI không chấm, không xếp hạng, thiếu ghi chưa có thông tin, HR là người duyệt → workflow: mơ hồ, trung bình → not yet rủi ro Value và Viability cao
+
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [Worksheet của lab](../../docs/01-worksheet.md) — template và hướng dẫn CP1–CP7
+- [Bài mẫu deliverable](../../docs/02-deliverable-example.md) — cách trình bày Problem Card và quy trình nháp
+- [Báo cáo nhóm Kyori](../team/group_report.md) — candidate CV được chọn, quy trình, Problem Statement và quyết định Not Yet
+- [Greenhouse: Unsuccessful resume parse](https://support.greenhouse.io/hc/en-us/articles/200989175-Unsuccessful-resume-parse) — giới hạn của parser khi đọc CV
+- [Teamtailor: Co-pilot Resume parser](https://support.teamtailor.com/en/articles/16127956-co-pilot-resume-parser) — công cụ trích xuất thông tin CV có sẵn
+- [Workable: Using the Workable Agent](https://help.workable.com/hc/en-us/articles/38381544828695-Using-the-Workable-Agent) — agent hỗ trợ tuyển dụng trên thị trường
+- Google PAIR — People + AI Guidebook (augment hay automate, báo nhầm hay bỏ sót)
